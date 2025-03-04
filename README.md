@@ -5,9 +5,11 @@
 3.[Solid, KISS, DRY](https://scalastic.io/en/solid-dry-kiss/)
 
 
-
+[IMP](https://www.linkedin.com/feed/update/urn:li:activity:7292533217515962370/)
 TO BE Read 
 [1](https://www.linkedin.com/feed/update/urn:li:activity:7226085764013449216/)
 [2](https://www.linkedin.com/feed/update/urn:li:activity:7228241261382533120/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7228241261382533120%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 [3](https://www.linkedin.com/feed/update/urn:li:activity:7236953669009620992/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7236953669009620992%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+[4](https://www.linkedin.com/feed/update/urn:li:activity:7296747650039615491/)
+[5](https://www.linkedin.com/feed/update/urn:li:activity:7294211939407212545/)
 
