@@ -13,3 +13,5 @@ TO BE Read
 [4](https://www.linkedin.com/feed/update/urn:li:activity:7296747650039615491/)
 [5](https://www.linkedin.com/feed/update/urn:li:activity:7294211939407212545/)
 
+
+System Design [[System Design]([url](https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a))
